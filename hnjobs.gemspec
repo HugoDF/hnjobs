@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'hnjobs'
-  s.version     = '0.0.1'
-  s.date        = '2016-02-08'
+  s.version     = '0.0.2'
+  s.date        = '2016-02-12'
   s.summary     = "HN Jobs API calls wrapper"
-  s.description = "API wrapper around a publicly exposed endpoint"
+  s.description = "API wrapper around the Jobs endpoint of HackerNews"
   s.authors     = ["Hugo Di Francesco"]
   s.email       = 'hugo@awebots.com'
   s.files       = ["lib/hnjobs.rb"]
