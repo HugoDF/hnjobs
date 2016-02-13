@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'hnjobs'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2016-02-12'
   s.summary     = "HN Jobs API calls wrapper"
   s.description = "API wrapper around the Jobs endpoint of HackerNews"
